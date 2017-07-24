@@ -1,4 +1,4 @@
-BLE Eddystone demo
+BLE Eddystone UID beacon demo
 ===========================
 This is a BLE advertising demo with virtual HCI interface. Send Reset/ADV_PARAM/ADV_DATA/ADV_ENABLE HCI command for BLE advertising.
 
